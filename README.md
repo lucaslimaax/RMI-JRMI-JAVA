@@ -1,7 +1,7 @@
 # RMI-JRMI-JAVA
 Uso de JRMI para chamada de métodos entre clientes e servidor.
 
-Este algoritimo tem como próposito realizar a chamada de um metódo básico em [Java](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)), utilizando os conceitos de [RMI](https://pt.wikipedia.org/wiki/RMI)
+Este algoritimo tem como próposito realizar a chamada de um metódo básico em [Java](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)), utilizando os conceitos de [RMI](https://pt.wikipedia.org/wiki/RMI).
 
 Como usar:
 
